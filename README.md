@@ -1,5 +1,5 @@
 # Développement d'un Microsevice de gestion des comptes bancaires
-Lobjectif est de créer un microservice permettant de gérer les comptes bancaires (Ajout, Modification,Suppression..).
+L'objectif est de créer un microservice permettant de gérer les comptes bancaires (Ajout, Modification,Suppression..).
 \
 \
 Les clients REST communiquent avec le microservice par le biais d'une API REST exposée.
